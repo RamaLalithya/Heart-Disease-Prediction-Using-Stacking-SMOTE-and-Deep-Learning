@@ -1,4 +1,6 @@
-pickle
 streamlit
-joblib
 numpy
+joblib
+scikit-learn
+tensorflow
+keras
