@@ -1,1 +1,4 @@
 pickle
+streamlit
+joblib
+numpy
